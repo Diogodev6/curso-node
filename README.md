@@ -21,3 +21,9 @@ mudar o package.json "start": "nodemon index.js"<br>
 npm start (cmd)
 Módulo Luxon<br>
 npm i luxon <br>
+Módulo pensador-scrap<br>
+npm init -y<br>
+npm i pensador-scrap<br>
+sintaxe ecmascript: inserir no package.json "type": "module",<br>
+no package.json inserir nos scripts "start": "node index.js"<br>
+para rodar, npm start<br>
