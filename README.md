@@ -19,3 +19,5 @@ instalar dependencia dev para reiniciar a pagina:<br>
 npm i -D nodemon<br>
 mudar o package.json "start": "nodemon index.js"<br>
 npm start (cmd)
+Módulo Luxon<br>
+npm i luxon <br>
