@@ -13,3 +13,9 @@ npm i node-emoji: instalar pacote npm<br>
 npm i -D chalk: dependencias de desenvolvimento<br>
 yarn add -D chalk: dependencias de desenvolvimento<br>
 para rodar os projetos: inserir no package.json no script: "start": "node index.js" cmd: npm start<br>
+Módulo Server: <br>
+instalar servidor: npm i server<br>
+instalar dependencia dev para reiniciar a pagina:<br>
+npm i -D nodemon<br>
+mudar o package.json "start": "nodemon index.js"<br>
+npm start (cmd)
