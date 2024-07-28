@@ -8,4 +8,8 @@ npm i: instalar dependências<br>
 npm i -D: instalar dependências de desenvolvimento <br>
 npm i -g yarn: instalação global<br>
 criar package.json yarn: yarn init<br>
-yarn add node-emoji: instalar pacote <br>
+yarn add node-emoji: instalar pacote yarn<br>
+npm i node-emoji: instalar pacote npm<br>
+npm i -D chalk: dependencias de desenvolvimento<br>
+yarn add -D chalk: dependencias de desenvolvimento<br>
+para rodar os projetos: inserir no package.json no script: "start": "node index.js" cmd: npm start<br>
